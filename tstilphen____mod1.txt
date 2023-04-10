@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>
+            Tara Stilphen JavaScript Course
+        </title>
+    </head>  
+    
+    <body>
+        <center
+            <h1> Welcome to my site </h1>
+            <h2> week 1, module 1</h2>
+    </body>
+
+</html>
